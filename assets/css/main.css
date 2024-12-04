@@ -1942,6 +1942,20 @@ input, select, textarea {
 					ul.social li a.fa-twitter:hover {
 						background: #3dbaf4;
 					}
+                ul.social li a.fa-github {
+					background: #24292e;
+				}
+
+                ul.social li a.fa-github:hover {
+                    background: #24292e;
+                }
+                ul.social li a.fa-orcid {
+					background: #A6CE39;
+				}
+
+                ul.social li a.fa-orcid:hover {
+                    background: #A6CE39;
+                }
 
 				ul.social li a.fa-dribbble {
 					background: #c4376b;
@@ -1973,6 +1987,13 @@ input, select, textarea {
 
 					ul.social li a.fa-google-plus:hover {
 						background: #ea3723;
+					}
+                ul.social li a.fa-google {
+					background: #dd4b39;
+				}
+
+					ul.social li a.fa-google:hover {
+						background: #dd4b39;
 					}
 
 /* Icons */
